@@ -184,40 +184,6 @@ const styles = StyleSheet.create({
     alignItems: 'flex-end',
     marginRight: 25,
   },
-  textArea: {
-    height: 100,
-    borderColor: '#ccc',
-    borderWidth: 1,
-    backgroundColor: '#f0f0f0',
-    width: 260,
-  },
-  discountInput: {
-    height: 20,
-    width: 50,
-    marginLeft: 17,
-    borderColor: '#ccc',
-    borderWidth: 1,
-    backgroundColor: 'white',
-  },
-  discountText: {
-    marginLeft: 5,
-  },
-  hargaInput: {
-    height: 20,
-    width: 100,
-    marginLeft: 17,
-    borderColor: '#ccc',
-    borderWidth: 1,
-    backgroundColor: 'white',
-  },
-  totalInput: {
-    height: 20,
-    width: 100,
-    marginLeft: 17,
-    borderColor: '#ccc',
-    borderWidth: 1,
-    backgroundColor: 'white',
-  },
 });
 
 export default MainScreen;
